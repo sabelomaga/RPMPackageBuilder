@@ -1,2 +1,2 @@
 # RPMPackageBuilder
-A script to build an RPM package
+An RPM package builder.
